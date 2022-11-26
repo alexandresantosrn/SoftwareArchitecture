@@ -19,7 +19,7 @@
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']"/>
         <target xmi:type="sysadl:Package" href="Ambient.sysadl#//@packages[name='SmartPlaceDUD']"/>
       </ownedRepresentationDescriptors>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_Qb1ygW27Ee2bhfn6QsiZwQ" name="VLD (Structural BDD)" repPath="#_Qb1LcG27Ee2bhfn6QsiZwQ" changeId="2913b6d5-1ba7-4c33-84e6-b6ab3992ef8a">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_Qb1ygW27Ee2bhfn6QsiZwQ" name="VLD (Structural BDD)" repPath="#_Qb1LcG27Ee2bhfn6QsiZwQ" changeId="551a1260-e32b-496d-8c66-f27dba85c867">
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']"/>
         <target xmi:type="sysadl:Package" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']"/>
       </ownedRepresentationDescriptors>
@@ -1318,6 +1318,78 @@
               <styles xmi:type="notation:ShapeStyle" xmi:id="_L80XkW29Ee2bhfn6QsiZwQ" fontName="Ubuntu" fontHeight="8"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_L80Xkm29Ee2bhfn6QsiZwQ" x="218" y="154"/>
             </children>
+            <children xmi:type="notation:Node" xmi:id="_EG0PMG2-Ee2bhfn6QsiZwQ" type="3009" element="_EGs6dm2-Ee2bhfn6QsiZwQ">
+              <children xmi:type="notation:Node" xmi:id="_EG0PM22-Ee2bhfn6QsiZwQ" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_EG0PNG2-Ee2bhfn6QsiZwQ" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_HCevEG2-Ee2bhfn6QsiZwQ" type="3010" element="_HCD4UW2-Ee2bhfn6QsiZwQ">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_HCevEW2-Ee2bhfn6QsiZwQ" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_HCevEm2-Ee2bhfn6QsiZwQ"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_KBNxEG2-Ee2bhfn6QsiZwQ" type="3010" element="_KBFOOW2-Ee2bhfn6QsiZwQ">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_KBNxEW2-Ee2bhfn6QsiZwQ" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_KBNxEm2-Ee2bhfn6QsiZwQ"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_EG0PNW2-Ee2bhfn6QsiZwQ"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_EG0PNm2-Ee2bhfn6QsiZwQ"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_EG0PMW2-Ee2bhfn6QsiZwQ" fontName="Ubuntu" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EG0PMm2-Ee2bhfn6QsiZwQ" x="30" y="154"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_Qpu9MG2-Ee2bhfn6QsiZwQ" type="3009" element="_QpXJwm2-Ee2bhfn6QsiZwQ">
+              <children xmi:type="notation:Node" xmi:id="_Qpu9M22-Ee2bhfn6QsiZwQ" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_QpvkQG2-Ee2bhfn6QsiZwQ" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_QpvkQ22-Ee2bhfn6QsiZwQ" type="3010" element="_QpfFkm2-Ee2bhfn6QsiZwQ">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_QpvkRG2-Ee2bhfn6QsiZwQ" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_QpvkRW2-Ee2bhfn6QsiZwQ"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_QpvkRm2-Ee2bhfn6QsiZwQ" type="3010" element="_QplMMW2-Ee2bhfn6QsiZwQ">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_QpvkR22-Ee2bhfn6QsiZwQ" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_QpvkSG2-Ee2bhfn6QsiZwQ"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_QpvkQW2-Ee2bhfn6QsiZwQ"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_QpvkQm2-Ee2bhfn6QsiZwQ"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_Qpu9MW2-Ee2bhfn6QsiZwQ" fontName="Ubuntu" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Qpu9Mm2-Ee2bhfn6QsiZwQ" x="46" y="269"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_YF83Im2-Ee2bhfn6QsiZwQ" type="3009" element="_YF2wkG2-Ee2bhfn6QsiZwQ">
+              <children xmi:type="notation:Node" xmi:id="_YF83JW2-Ee2bhfn6QsiZwQ" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_YF9eMG2-Ee2bhfn6QsiZwQ" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_YF9eM22-Ee2bhfn6QsiZwQ" type="3010" element="_YF3Xkm2-Ee2bhfn6QsiZwQ">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_YF9eNG2-Ee2bhfn6QsiZwQ" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_YF9eNW2-Ee2bhfn6QsiZwQ"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_YF9eNm2-Ee2bhfn6QsiZwQ" type="3010" element="_YF3XlG2-Ee2bhfn6QsiZwQ">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_YF9eN22-Ee2bhfn6QsiZwQ" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_YF9eOG2-Ee2bhfn6QsiZwQ"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_YF9eMW2-Ee2bhfn6QsiZwQ"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_YF9eMm2-Ee2bhfn6QsiZwQ"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_YF83I22-Ee2bhfn6QsiZwQ" fontName="Ubuntu" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YF83JG2-Ee2bhfn6QsiZwQ" x="224" y="269"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_gWRHgm2-Ee2bhfn6QsiZwQ" type="3009" element="_gWLoBm2-Ee2bhfn6QsiZwQ">
+              <children xmi:type="notation:Node" xmi:id="_gWRukG2-Ee2bhfn6QsiZwQ" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_gWRukW2-Ee2bhfn6QsiZwQ" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_gWRulG2-Ee2bhfn6QsiZwQ" type="3010" element="_gWMPAm2-Ee2bhfn6QsiZwQ">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_gWRulW2-Ee2bhfn6QsiZwQ" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_gWRulm2-Ee2bhfn6QsiZwQ"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_gWRul22-Ee2bhfn6QsiZwQ" type="3010" element="_gWMPBG2-Ee2bhfn6QsiZwQ">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_gWRumG2-Ee2bhfn6QsiZwQ" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_gWRumW2-Ee2bhfn6QsiZwQ"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_gWRumm2-Ee2bhfn6QsiZwQ" type="3010" element="_gWMPBm2-Ee2bhfn6QsiZwQ">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_gWRum22-Ee2bhfn6QsiZwQ" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_gWRunG2-Ee2bhfn6QsiZwQ"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_gWRukm2-Ee2bhfn6QsiZwQ"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_gWRuk22-Ee2bhfn6QsiZwQ"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_gWRHg22-Ee2bhfn6QsiZwQ" fontName="Ubuntu" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gWRHhG2-Ee2bhfn6QsiZwQ" x="445" y="263"/>
+            </children>
             <styles xmi:type="notation:SortingStyle" xmi:id="_Qb3AqG27Ee2bhfn6QsiZwQ"/>
             <styles xmi:type="notation:FilteringStyle" xmi:id="_Qb3AqW27Ee2bhfn6QsiZwQ"/>
           </children>
@@ -1444,6 +1516,122 @@
             <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.Enum']/@subNodeMappings[name='BDD.Enum.Elements']/@style"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.Enum']/@subNodeMappings[name='BDD.Enum.Elements']"/>
+        </ownedElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_EGs6dm2-Ee2bhfn6QsiZwQ" name="&lt;&lt;value type>>&#xA;TemperaturaCelsius">
+        <target xmi:type="sysadl:ValueTypeDef" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='TemperaturaCelsius']"/>
+        <semanticElements xmi:type="sysadl:ValueTypeDef" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='TemperaturaCelsius']"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_EGthgG2-Ee2bhfn6QsiZwQ" showIcon="false" iconPath="/org.sysadl.viewpoints/icons/DataType.gif" borderSize="1" borderSizeComputationExpression="1" backgroundStyle="GradientTopToBottom" foregroundColor="126,177,254">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.ValueTypeDef']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.ValueTypeDef']"/>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_HCD4UW2-Ee2bhfn6QsiZwQ" name="Unit = Celsius">
+          <target xmi:type="sysadl:UnitDef" href="Ambient.sysadl#//@packages[name='SmartPlaceDUD']/@definitions[name='Celsius']"/>
+          <semanticElements xmi:type="sysadl:UnitDef" href="Ambient.sysadl#//@packages[name='SmartPlaceDUD']/@definitions[name='Celsius']"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_HCFtgG2-Ee2bhfn6QsiZwQ" showIcon="false">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.ValueTypeDef']/@subNodeMappings[name='BDD.ValueType.Unit']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.ValueTypeDef']/@subNodeMappings[name='BDD.ValueType.Unit']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_KBFOOW2-Ee2bhfn6QsiZwQ" name="Dimension = Temperatura">
+          <target xmi:type="sysadl:DimensionDef" href="Ambient.sysadl#//@packages[name='SmartPlaceDUD']/@definitions[name='Temperatura']"/>
+          <semanticElements xmi:type="sysadl:DimensionDef" href="Ambient.sysadl#//@packages[name='SmartPlaceDUD']/@definitions[name='Temperatura']"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_KBHqcG2-Ee2bhfn6QsiZwQ" showIcon="false">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.ValueTypeDef']/@subNodeMappings[name='BDD.ValueType.Dimension']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.ValueTypeDef']/@subNodeMappings[name='BDD.ValueType.Dimension']"/>
+        </ownedElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_QpXJwm2-Ee2bhfn6QsiZwQ" name="&lt;&lt;dataType>>&#xA;DadosCamera">
+        <target xmi:type="sysadl:DataTypeDef" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosCamera']"/>
+        <semanticElements xmi:type="sysadl:DataTypeDef" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosCamera']"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_QpfFkG2-Ee2bhfn6QsiZwQ" iconPath="/org.sysadl.viewpoints/icons/DataType.gif" borderSize="1" borderSizeComputationExpression="1" backgroundColor="230,230,250" foregroundColor="230,230,250">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']"/>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_QpfFkm2-Ee2bhfn6QsiZwQ" name="ativo:Boolean">
+          <target xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosCamera']/@attributes[name='ativo']"/>
+          <semanticElements xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosCamera']/@attributes[name='ativo']"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_QplMMG2-Ee2bhfn6QsiZwQ" showIcon="false">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@subNodeMappings[name='BDD.DataTypeAttribute']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@subNodeMappings[name='BDD.DataTypeAttribute']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_QplMMW2-Ee2bhfn6QsiZwQ" name="qtdPessoas:Int">
+          <target xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosCamera']/@attributes[name='qtdPessoas']"/>
+          <semanticElements xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosCamera']/@attributes[name='qtdPessoas']"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_QplzQG2-Ee2bhfn6QsiZwQ" showIcon="false">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@subNodeMappings[name='BDD.DataTypeAttribute']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@subNodeMappings[name='BDD.DataTypeAttribute']"/>
+        </ownedElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_YF2wkG2-Ee2bhfn6QsiZwQ" name="&lt;&lt;dataType>>&#xA;DadosCamera">
+        <target xmi:type="sysadl:DataTypeDef" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosCamera']"/>
+        <semanticElements xmi:type="sysadl:DataTypeDef" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosCamera']"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_YF3XkG2-Ee2bhfn6QsiZwQ" iconPath="/org.sysadl.viewpoints/icons/DataType.gif" borderSize="1" borderSizeComputationExpression="1" backgroundColor="230,230,250" foregroundColor="230,230,250">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']"/>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_YF3Xkm2-Ee2bhfn6QsiZwQ" name="ativo:Boolean">
+          <target xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosCamera']/@attributes[name='ativo']"/>
+          <semanticElements xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosCamera']/@attributes[name='ativo']"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_YF3Xk22-Ee2bhfn6QsiZwQ" showIcon="false">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@subNodeMappings[name='BDD.DataTypeAttribute']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@subNodeMappings[name='BDD.DataTypeAttribute']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_YF3XlG2-Ee2bhfn6QsiZwQ" name="PessoasPresente:Boolean">
+          <target xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosCamera']/@attributes[name='PessoasPresente']"/>
+          <semanticElements xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosCamera']/@attributes[name='PessoasPresente']"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_YF3XlW2-Ee2bhfn6QsiZwQ" showIcon="false">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@subNodeMappings[name='BDD.DataTypeAttribute']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@subNodeMappings[name='BDD.DataTypeAttribute']"/>
+        </ownedElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_gWLoBm2-Ee2bhfn6QsiZwQ" name="&lt;&lt;dataType>>&#xA;DadosSensorTemperatura">
+        <target xmi:type="sysadl:DataTypeDef" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosSensorTemperatura']"/>
+        <semanticElements xmi:type="sysadl:DataTypeDef" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosSensorTemperatura']"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_gWMPAG2-Ee2bhfn6QsiZwQ" iconPath="/org.sysadl.viewpoints/icons/DataType.gif" borderSize="1" borderSizeComputationExpression="1" backgroundColor="230,230,250" foregroundColor="230,230,250">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']"/>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_gWMPAm2-Ee2bhfn6QsiZwQ" name="ativo:Boolean">
+          <target xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosSensorTemperatura']/@attributes[name='ativo']"/>
+          <semanticElements xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosSensorTemperatura']/@attributes[name='ativo']"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_gWMPA22-Ee2bhfn6QsiZwQ" showIcon="false">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@subNodeMappings[name='BDD.DataTypeAttribute']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@subNodeMappings[name='BDD.DataTypeAttribute']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_gWMPBG2-Ee2bhfn6QsiZwQ" name="DispositivosAtivos:Boolean">
+          <target xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosSensorTemperatura']/@attributes[name='DispositivosAtivos']"/>
+          <semanticElements xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosSensorTemperatura']/@attributes[name='DispositivosAtivos']"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_gWMPBW2-Ee2bhfn6QsiZwQ" showIcon="false">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@subNodeMappings[name='BDD.DataTypeAttribute']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@subNodeMappings[name='BDD.DataTypeAttribute']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_gWMPBm2-Ee2bhfn6QsiZwQ" name="temperatura:TemperaturaCelsius">
+          <target xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosSensorTemperatura']/@attributes[name='temperatura']"/>
+          <semanticElements xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosSensorTemperatura']/@attributes[name='temperatura']"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_gWMPB22-Ee2bhfn6QsiZwQ" showIcon="false">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@subNodeMappings[name='BDD.DataTypeAttribute']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@subNodeMappings[name='BDD.DataTypeAttribute']"/>
         </ownedElements>
       </ownedDiagramElements>
     </ownedDiagramElements>
