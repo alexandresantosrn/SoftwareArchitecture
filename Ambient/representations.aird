@@ -19,7 +19,7 @@
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']"/>
         <target xmi:type="sysadl:Package" href="Ambient.sysadl#//@packages[name='SmartPlaceDUD']"/>
       </ownedRepresentationDescriptors>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_Qb1ygW27Ee2bhfn6QsiZwQ" name="VLD (Structural BDD)" repPath="#_Qb1LcG27Ee2bhfn6QsiZwQ" changeId="8bd72a2c-0421-47c1-b0f8-8fea2e2ebd93">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_Qb1ygW27Ee2bhfn6QsiZwQ" name="VLD (Structural BDD)" repPath="#_Qb1LcG27Ee2bhfn6QsiZwQ" changeId="60661125-83ac-4cf6-8bc1-ec935b9d43b2">
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']"/>
         <target xmi:type="sysadl:Package" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']"/>
       </ownedRepresentationDescriptors>
@@ -1445,22 +1445,22 @@
               <styles xmi:type="notation:ShapeStyle" xmi:id="_gWRHg22-Ee2bhfn6QsiZwQ" fontName="Ubuntu" fontHeight="8"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gWRHhG2-Ee2bhfn6QsiZwQ" x="445" y="263"/>
             </children>
-            <children xmi:type="notation:Node" xmi:id="_pHzPwG3YEe2tuNYZ98LL6Q" type="3009" element="_pHg74m3YEe2tuNYZ98LL6Q">
-              <children xmi:type="notation:Node" xmi:id="_pH5WYG3YEe2tuNYZ98LL6Q" type="5004"/>
-              <children xmi:type="notation:Node" xmi:id="_pH59cG3YEe2tuNYZ98LL6Q" type="7003">
-                <children xmi:type="notation:Node" xmi:id="_pH7LkG3YEe2tuNYZ98LL6Q" type="3010" element="_pHjYIW3YEe2tuNYZ98LL6Q">
-                  <styles xmi:type="notation:FontStyle" xmi:id="_pH7LkW3YEe2tuNYZ98LL6Q" fontName="Segoe UI" fontHeight="8"/>
-                  <layoutConstraint xmi:type="notation:Location" xmi:id="_pH7Lkm3YEe2tuNYZ98LL6Q"/>
+            <children xmi:type="notation:Node" xmi:id="_8tP1QG3sEe2R9LvqGGEo_A" type="3009" element="_8tH5c23sEe2R9LvqGGEo_A">
+              <children xmi:type="notation:Node" xmi:id="_8tP1Q23sEe2R9LvqGGEo_A" type="5004"/>
+              <children xmi:type="notation:Node" xmi:id="_8tP1RG3sEe2R9LvqGGEo_A" type="7003">
+                <children xmi:type="notation:Node" xmi:id="_8tP1R23sEe2R9LvqGGEo_A" type="3010" element="_8tJHkW3sEe2R9LvqGGEo_A">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_8tP1SG3sEe2R9LvqGGEo_A" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_8tP1SW3sEe2R9LvqGGEo_A"/>
                 </children>
-                <children xmi:type="notation:Node" xmi:id="_pH7Lk23YEe2tuNYZ98LL6Q" type="3010" element="_pHqs4G3YEe2tuNYZ98LL6Q">
-                  <styles xmi:type="notation:FontStyle" xmi:id="_pH7LlG3YEe2tuNYZ98LL6Q" fontName="Segoe UI" fontHeight="8"/>
-                  <layoutConstraint xmi:type="notation:Location" xmi:id="_pH7LlW3YEe2tuNYZ98LL6Q"/>
+                <children xmi:type="notation:Node" xmi:id="_8tQcUG3sEe2R9LvqGGEo_A" type="3010" element="_8tNZAW3sEe2R9LvqGGEo_A">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_8tQcUW3sEe2R9LvqGGEo_A" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_8tQcUm3sEe2R9LvqGGEo_A"/>
                 </children>
-                <styles xmi:type="notation:SortingStyle" xmi:id="_pH59cW3YEe2tuNYZ98LL6Q"/>
-                <styles xmi:type="notation:FilteringStyle" xmi:id="_pH59cm3YEe2tuNYZ98LL6Q"/>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_8tP1RW3sEe2R9LvqGGEo_A"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_8tP1Rm3sEe2R9LvqGGEo_A"/>
               </children>
-              <styles xmi:type="notation:ShapeStyle" xmi:id="_pHzPwW3YEe2tuNYZ98LL6Q" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pHzPwm3YEe2tuNYZ98LL6Q" x="135" y="-31"/>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_8tP1QW3sEe2R9LvqGGEo_A" fontName="Ubuntu" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8tP1Qm3sEe2R9LvqGGEo_A" x="224" y="269"/>
             </children>
             <styles xmi:type="notation:SortingStyle" xmi:id="_Qb3AqG27Ee2bhfn6QsiZwQ"/>
             <styles xmi:type="notation:FilteringStyle" xmi:id="_Qb3AqW27Ee2bhfn6QsiZwQ"/>
@@ -1695,25 +1695,28 @@
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@subNodeMappings[name='BDD.DataTypeAttribute']"/>
         </ownedElements>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_pHg74m3YEe2tuNYZ98LL6Q" name="&lt;&lt;dataType>>&#xA;DadosCamera">
-        <target xmi:type="sysadl:DataTypeDef" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosCamera']"/>
-        <semanticElements xmi:type="sysadl:DataTypeDef" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosCamera']"/>
-        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_pHiKAG3YEe2tuNYZ98LL6Q" iconPath="/org.sysadl.viewpoints/icons/DataType.gif" borderSize="1" borderSizeComputationExpression="1" backgroundColor="230,230,250" foregroundColor="230,230,250">
+      <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_8tH5c23sEe2R9LvqGGEo_A" name="&lt;&lt;dataType>>&#xA;DadosSensorPresenca">
+        <target xmi:type="sysadl:DataTypeDef" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosSensorPresenca']"/>
+        <semanticElements xmi:type="sysadl:DataTypeDef" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosSensorPresenca']"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_8tIggG3sEe2R9LvqGGEo_A" iconPath="/org.sysadl.viewpoints/icons/DataType.gif" borderSize="1" borderSizeComputationExpression="1" backgroundColor="230,230,250" foregroundColor="230,230,250">
           <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']"/>
-        <ownedElements xmi:type="diagram:DNodeListElement" uid="_pHjYIW3YEe2tuNYZ98LL6Q" name="ativo:Boolean">
-          <target xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosCamera']/@attributes[name='ativo']"/>
-          <semanticElements xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosCamera']/@attributes[name='ativo']"/>
-          <ownedStyle xmi:type="diagram:Dot" uid="_pHqF0G3YEe2tuNYZ98LL6Q" showIcon="false">
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_8tJHkW3sEe2R9LvqGGEo_A" name="ativo:Boolean">
+          <target xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosSensorPresenca']/@attributes[name='ativo']"/>
+          <semanticElements xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosSensorPresenca']/@attributes[name='ativo']"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_8tNZAG3sEe2R9LvqGGEo_A" showIcon="false">
             <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@subNodeMappings[name='BDD.DataTypeAttribute']/@style"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@subNodeMappings[name='BDD.DataTypeAttribute']"/>
         </ownedElements>
-        <ownedElements xmi:type="diagram:DNodeListElement" uid="_pHqs4G3YEe2tuNYZ98LL6Q" name="PessoasPresente:Boolean">
-          <target xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosCamera']/@attributes[name='PessoasPresente']"/>
-          <semanticElements xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosCamera']/@attributes[name='PessoasPresente']"/>
-          <ownedStyle xmi:type="diagram:Dot" uid="_pHrT8G3YEe2tuNYZ98LL6Q" showIcon="false">
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_8tNZAW3sEe2R9LvqGGEo_A" name="PessoasPresente:Boolean">
+          <target xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosSensorPresenca']/@attributes[name='PessoasPresente']"/>
+          <semanticElements xmi:type="sysadl:TypeUse" href="Ambient.sysadl#//@packages[name='SmartPlaceVLD']/@definitions[name='DadosSensorPresenca']/@attributes[name='PessoasPresente']"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_8tOAEG3sEe2R9LvqGGEo_A" showIcon="false">
             <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@subNodeMappings[name='BDD.DataTypeAttribute']/@style"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Structural']/@ownedRepresentations[name='SysADL.BDD']/@defaultLayer/@containerMappings[name='BDD']/@subContainerMappings[name='BDD.DataTypeDef']/@subNodeMappings[name='BDD.DataTypeAttribute']"/>
