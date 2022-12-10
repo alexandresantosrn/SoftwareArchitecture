@@ -50,7 +50,7 @@
     </ownedViews>
     <ownedViews xmi:type="viewpoint:DView" uid="_66H4cHh5Ee2GRpUmNeNMzg">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']"/>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_8NAcoHh5Ee2GRpUmNeNMzg" name="CPD (Behavior BDD)" repPath="#_8M-ncHh5Ee2GRpUmNeNMzg" changeId="151f57f1-1506-4022-86bd-21d87709a71b">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_8NAcoHh5Ee2GRpUmNeNMzg" name="CPD (Behavior BDD)" repPath="#_8M-ncHh5Ee2GRpUmNeNMzg" changeId="84196b8d-b7aa-4bcd-9c5e-879ca4fc9c9d">
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']"/>
         <target xmi:type="sysadl:Package" href="Ambient.sysadl#//@packages[name='SmartPlaceCPD']"/>
       </ownedRepresentationDescriptors>
@@ -4863,11 +4863,15 @@
                   <styles xmi:type="notation:FontStyle" xmi:id="_sFIMwXi-Ee2Rw-1MKtP4Jw" fontName="Ubuntu" fontHeight="8"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_sFIMwni-Ee2Rw-1MKtP4Jw"/>
                 </children>
+                <children xmi:type="notation:Node" xmi:id="_q8nkMHjMEe2Rw-1MKtP4Jw" type="3010" element="_q8lvA3jMEe2Rw-1MKtP4Jw">
+                  <styles xmi:type="notation:FontStyle" xmi:id="_q8nkMXjMEe2Rw-1MKtP4Jw" fontName="Ubuntu" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_q8nkMnjMEe2Rw-1MKtP4Jw"/>
+                </children>
                 <styles xmi:type="notation:SortingStyle" xmi:id="_Dl6ocXi9Ee2Rw-1MKtP4Jw"/>
                 <styles xmi:type="notation:FilteringStyle" xmi:id="_Dl6ocni9Ee2Rw-1MKtP4Jw"/>
               </children>
               <styles xmi:type="notation:ShapeStyle" xmi:id="_Dl6BYXi9Ee2Rw-1MKtP4Jw" fontName="Ubuntu" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Dl6BYni9Ee2Rw-1MKtP4Jw" x="830" y="444"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Dl6BYni9Ee2Rw-1MKtP4Jw" x="725" y="438"/>
             </children>
             <styles xmi:type="notation:SortingStyle" xmi:id="_8Nb6cnh5Ee2GRpUmNeNMzg"/>
             <styles xmi:type="notation:FilteringStyle" xmi:id="_8Nb6c3h5Ee2GRpUmNeNMzg"/>
@@ -5289,6 +5293,9 @@
       <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_Dlqw0Hi9Ee2Rw-1MKtP4Jw" name="&lt;&lt;Constraint>>&#xA;CalcularQuantidadePessoasEQ">
         <target xmi:type="sysadl:ConstraintDef" href="Ambient.sysadl#//@packages[name='SmartPlaceCPD']/@definitions[name='CalcularQuantidadePessoasEQ']"/>
         <semanticElements xmi:type="sysadl:ConstraintDef" href="Ambient.sysadl#//@packages[name='SmartPlaceCPD']/@definitions[name='CalcularQuantidadePessoasEQ']"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
         <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_Dlqw0Xi9Ee2Rw-1MKtP4Jw" iconPath="/org.sysadl.viewpoints/icons/Constraint.gif" borderSize="1" borderSizeComputationExpression="1" backgroundStyle="GradientTopToBottom" foregroundColor="126,177,254">
           <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Constraint']/@style"/>
         </ownedStyle>
@@ -5308,6 +5315,14 @@
             <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Constraint']/@subNodeMappings[name='BDD.Constraint.ParamOut']/@style"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Constraint']/@subNodeMappings[name='BDD.Constraint.ParamOut']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" uid="_q8lvA3jMEe2Rw-1MKtP4Jw" name="equation: (dadosCamera->qdPessoas) ? (qtdPessoas == qdPessoas) : (qtdPessoas == 0)">
+          <target xmi:type="sysadl:ConditionalTestExpression" href="Ambient.sysadl#//@packages[name='SmartPlaceCPD']/@definitions[name='CalcularQuantidadePessoasEQ']/@equation"/>
+          <semanticElements xmi:type="sysadl:ConditionalTestExpression" href="Ambient.sysadl#//@packages[name='SmartPlaceCPD']/@definitions[name='CalcularQuantidadePessoasEQ']/@equation"/>
+          <ownedStyle xmi:type="diagram:Dot" uid="_q8lvBHjMEe2Rw-1MKtP4Jw" showIcon="false">
+            <description xmi:type="style:DotDescription" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Constraint']/@subNodeMappings[name='BDD.Constraint.Node']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.sysadl.viewpoints/description/SysADL_vp.odesign#//@ownedViewpoints[name='SysADL.Behavioral']/@ownedRepresentations[name='BDD.Behavior']/@defaultLayer/@containerMappings[name='BDD.Behavior.Self']/@subContainerMappings[name='BDD.Constraint']/@subNodeMappings[name='BDD.Constraint.Node']"/>
         </ownedElements>
       </ownedDiagramElements>
     </ownedDiagramElements>
